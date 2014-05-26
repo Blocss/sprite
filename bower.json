@@ -1,0 +1,19 @@
+{
+    "name": "blocss-sprite",
+    "version": "1.0.0",
+    "homepage": "https://github.com/Blocss/sprite",
+    "authors": [
+        "Bram Smulders <bram@bramsmulders.com>"
+    ],
+    "description": "A Blocss component to create simple sprites & icons",
+    "main": "_sprite.scss",
+    "keywords": [
+        "blocss",
+        "oocss",
+        "css"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "blocss": "~5.0"
+    }
+}
