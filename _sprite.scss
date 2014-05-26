@@ -1,0 +1,22 @@
+/*! blocss-sprite v0.0.0 | MIT License | github.com/Blocss */
+
+/*----------------------------------------------------------------------------*\
+    $SPRITE
+    Basic sprite & icon structural styling. Extend in your theme stylesheet.
+\*----------------------------------------------------------------------------*/
+
+/*  Variables
+\*----------------------------------------------------------------------------*/
+
+// Module can be disabled by switching `$use-buttons` to `false`
+$use-sprite:                            true                         !default;
+
+
+
+
+
+/*  Core component
+\*----------------------------------------------------------------------------*/
+
+@if $use-sprite == true {
+}
